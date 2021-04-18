@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+}
+
+.lastpage {
+    background-color: black;
+    width: 100%;
+    height: 700px;
+    margin-top: 50px;
+    float: left;
+}
+
+.map
+{
+    height:350px;
+    width: 1000px;
+    margin: 50px 0px 0px 180px;
+}
+
+.number
+{
+    color: white;
+    margin: 10px 0px 0px 220px;
+}
+
+.number1
+{
+    color: white;
+    margin: 10px 0px 0px 220px;
+}
+
+.emailid
+{
+    color: white;
+    margin: -50px 0px 0px 610px;
+}
+
+.pin
+{
+    height: 30px;
+    width: 30px;
+    margin: 50px 0px 0px 390px;
+}
+
+.lh3
+{
+    height: 30px;
+    width: 30px;
+    margin: 50px 0px 0px 250px;
+}
+
+.email
+{
+    height: 30px;
+    width: 30px;
+    margin: 0px 0px 0px 380px;
+}
+
+.logof1
+{
+    height: 35px;
+    width: 35px;
+    margin: 0px 0px 0px 580px;
+}
+
+
+.twiter
+{
+    height: 40px;
+    width: 40px;
+    margin: 0px 0px 0px 30px;
+}
+
+.snap
+{
+    height: 40px;
+    width: 40px;
+    margin: 0px 0px 0px 30px;
+}
+
+
+.ad
+{
+    color: white;
+    margin: -20px 0px 0px 1050px;
+}
+
+.ad1
+{
+    color: white;
+    margin: 0px 0px 0px 1050px;
+}
+
+.ad2
+{
+    color: white;
+    margin: 0px 0px 0px 1050px;
+}
+
+.ft
+{
+    color: rgba(255, 255, 255, 0.397);
+    font-size: 15px;
+    margin: 50px 0px 0px 520px;
+}
